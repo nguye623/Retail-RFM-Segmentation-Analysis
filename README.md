@@ -38,7 +38,8 @@ Source: UC Irvine Machine Learning Repository
 * On average, Segment 1 customers have gone nearly 25 times longer without visiting the store compared to Segment 2. Despite this, Segment 1's total revenue is only about one-third of Segment 2's.
 * Segments 2 and 3 demonstrate the critical role of consistent, frequent customers in driving high revenue, and emphasize the importance of maintaining loyalty.
 * While Segment 3's Recency is three times higher than Segment 2's, the revenue decline is not proportional, suggesting other factors mitigate the impact.
-![Segmentation]()
+
+![Segmentation](Segmentation.png)
 
 ### Churn Rate Per Segment
 * Churn Rate by Month
@@ -47,6 +48,8 @@ Source: UC Irvine Machine Learning Repository
 * Churn by Customer Segment
   * Cluster 1 represents the largest churn rate.
 
+![Churn Rate](Churn%20Rate.png)
+
 ### Basket Size Per Segment
 * Basket Size by Month
   * Basket Size had its highest peak in November and an overall highest Basket Size in the Fall-Winter
@@ -54,6 +57,7 @@ Source: UC Irvine Machine Learning Repository
   * Basket Size is rather diverse and spread evenly amongst Customer Segments.
   * Basket Size for all segments are nearly identical. This indicates that all customer segments purchase similar amounts per visit.
 
+![Basket Size](Basket%20Size.png)
 
 ## **Recommendations**
 #### _Seasonal Recommendations:_
